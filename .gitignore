@@ -1,0 +1,6 @@
+.env
+.venv/
+embed_list/
+logs/
+poc1/
+poc2/
